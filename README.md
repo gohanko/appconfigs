@@ -1,2 +1,2 @@
-# app-configs
-My application configs and settings
+# application-configurations
+Settings and configuration files for applications that I use.
