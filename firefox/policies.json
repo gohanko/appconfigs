@@ -68,6 +68,10 @@
             "layout.css.devPixelsPerPx": {
                 "Value": "1.15",
                 "Status": "user"
+            },
+            "browser.tabs.firefox-view": {
+                "Value": false,
+                "Status": "user"
             }
         }
     }
